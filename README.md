@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Neeraj Thakur 👋
 
-<!--
-**thqkurneeraj/thqkurneeraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE Student
+💻 Python & Django Developer
+🚀 Passionate about Web Development and AI Projects
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Python
+* Django
+* HTML/CSS
+* JavaScript
+* SQLite
+* Git & GitHub
+
+## Projects
+
+### AI Integrated Library Management System
+
+A modern Django-based library system with:
+
+* Student Dashboard
+* Manager Dashboard
+* Borrow Request System
+* Return Tracking
+* History Management
+
+## Contact
+
+📧 [neeraj1407477@gmail.com](mailto:neeraj1407477@gmail.com)
